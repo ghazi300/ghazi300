@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ghazi-bouzid-61b23b311">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ghazi-bouzid-61b23b311/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ghazibouzid63@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -56,18 +55,6 @@
 **AI**
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **BewerbungsPilot** | AI copilot that analyzes a German job ad, scores my fit, and drafts a tailored Anschreiben (RAG) | Spring Boot · Spring AI · Angular · pgvector · Gemini |
-| **OpenPOS** | Event-driven microservices retail / telecom-sales platform with full observability | Spring Boot · Kafka · PostgreSQL · Angular · Kubernetes |
-| **GermanReady** | Tech-interview trainer that corrects both the engineering answer and the German | Next.js · NestJS · Gemini |
-
-> 📌 Live demos and repos are pinned above. Each project ships with a full README, tests, and CI/CD.
 
 ---
 
